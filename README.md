@@ -696,11 +696,11 @@ tenali.fun
 ### 🥇 Leaderboard
 
 <!-- live-rank:start -->
-_Live data — last regenerated 2026-11-26 · auto-refreshed by [`github-actions[bot]`](https://github.com/features/actions) on every push to `main` and every 12h._
+_Live data — last regenerated 2026-11-27 · auto-refreshed by [`github-actions[bot]`](https://github.com/features/actions) on every push to `main` and every 12h._
 
 | # | 👤 Real Name | 🔗 GitHub ID | 📝 Commits | 🔀 PRs | 🏷️ Role |
 |--:|:-------------|:-------------|----------:|-----:|:--------|
-| 🥇 | **Priyanshu Kumar** | [priyanshu7725](https://github.com/priyanshu7725) | **1** | 0  | — |
+| 🥇 | **priyanshu7725** | [priyanshu7725](https://github.com/priyanshu7725) | **1** | 0  | — |
 <!-- live-rank:end -->
 
 

@@ -56,11 +56,11 @@
 ## 🥇 Leaderboard
 
 <!-- live-rank:start -->
-_Live data — last regenerated 2026-11-26 · auto-refreshed by [`github-actions[bot]`](https://github.com/features/actions) on every push to `main` and every 12h._
+_Live data — last regenerated 2026-11-27 · auto-refreshed by [`github-actions[bot]`](https://github.com/features/actions) on every push to `main` and every 12h._
 
 | # | 👤 Real Name | 🔗 GitHub ID | 📝 Commits | 🔀 PRs | 🏷️ Role |
 |--:|:-------------|:-------------|----------:|-----:|:--------|
-| 🥇 | **Priyanshu Kumar** | [priyanshu7725](https://github.com/priyanshu7725) | **1** | 0  | — |
+| 🥇 | **priyanshu7725** | [priyanshu7725](https://github.com/priyanshu7725) | **1** | 0  | — |
 <!-- live-rank:end -->
 
 ---
@@ -72,8 +72,8 @@ _Live data — last regenerated 2026-11-26 · auto-refreshed by [`github-actions
   <table>
     <tr>
       <td align="center" width="220">
-        <a href="https://github.com/priyanshu7725"><img src="https://avatars.githubusercontent.com/u/179143675?v=4&s=120" width="120" style="border-radius:50%; border:3px solid #888888;" alt="Priyanshu Kumar"/></a>
-        <br/><b>Priyanshu Kumar</b>
+        <a href="https://github.com/priyanshu7725"><img src="https://github.com/priyanshu7725.png?size=120&s=120" width="120" style="border-radius:50%; border:3px solid #888888;" alt="priyanshu7725"/></a>
+        <br/><b>priyanshu7725</b>
         <br/><a href="https://github.com/priyanshu7725">@priyanshu7725</a>
         <br/><sub>🏆 1 commits · 0 PRs merged</sub>
       </td>
