@@ -700,7 +700,7 @@ _Live data — last regenerated 2026-11-27 · auto-refreshed by [`github-actions
 
 | # | 👤 Real Name | 🔗 GitHub ID | 📝 Commits | 🔀 PRs | 🏷️ Role |
 |--:|:-------------|:-------------|----------:|-----:|:--------|
-| 🥇 | **priyanshu7725** | [priyanshu7725](https://github.com/priyanshu7725) | **1** | 0  | — |
+| 🥇 | **Priyanshu Kumar** | [priyanshu7725](https://github.com/priyanshu7725) | **1** | 0  | — |
 <!-- live-rank:end -->
 
 
